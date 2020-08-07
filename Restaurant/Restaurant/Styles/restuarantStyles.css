@@ -1,0 +1,64 @@
+/*
+Creator: Devon Dixon
+Date Created: 7/10/2020
+Date last modified: 8/7/2020
+*/
+h1 {
+	font-family: 'Black Ops One', cursive;
+}
+.top {
+	text-align: left;
+}
+
+body {
+	background-color: #DEB887;
+	font-family: helvetica, sans-serif;
+	color: #0d1f2d;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+header, footer {
+	background-color: #DC143C;
+	color: #fff8dc;
+	text-align: center;
+	padding: 30px 10px 20px 10px;
+}
+
+li {
+	display:inline-block;
+	float:left;
+}
+header {
+	font-size: large;
+  font-family: 'Black Ops One', cursive;
+}
+a {
+	color: #fff;
+	padding: 8px;
+	text-decoration: underline;
+	text-align: center;
+	display: block;
+	margin: 5px;
+	width: 100px;
+	float: left;
+
+}
+
+li .btn {
+		background-color: #2f4f4f;
+		color: #fef9ff;
+		}
+li .btn:hover {
+	font-weight: bold;
+	}
+
+a:hover {
+	font-weight: bold;
+}
+a:active {
+	text-decoration: none;
+}
+a:visited {
+	color: #F0E68C;
+}
