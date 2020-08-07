@@ -1,2 +1,0 @@
-# Odyssey
-Starting from zero
