@@ -3,9 +3,7 @@ Creator: Devon Dixon
 Date Created: 7/10/2020
 Date last modified: 8/2/2020
 */
-h1 {
-	font-family: 'Black Ops One', cursive;
-}
+
 .top {
 	text-align: left;
 }
@@ -21,7 +19,7 @@ body {
 header, footer {
 	background-color: #DC143C;
 	color: #fff8dc;
-	
+	height: 100px;
 	text-align: center;
 	padding: 30px 10px 20px 10px;
 }
